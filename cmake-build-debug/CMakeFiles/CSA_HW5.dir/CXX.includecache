@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/daniilles/Documents/CSA/CSA_HW5/consumer.h
+
+/Users/daniilles/Documents/CSA/CSA_HW5/item.h
+
+/Users/daniilles/Documents/CSA/CSA_HW5/main.cpp
+iostream
+-
+pthread.h
+-
+stdlib.h
+-
+thread
+-
+queue
+-
+chrono
+-
+utility
+-
+item.h
+/Users/daniilles/Documents/CSA/CSA_HW5/item.h
+consumer.h
+/Users/daniilles/Documents/CSA/CSA_HW5/consumer.h
+
